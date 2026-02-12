@@ -6,15 +6,19 @@ labels: documentation
 ---
 
 ## Goal
+
 What problem does this guide solve?
 
 ## Audience
+
 Who is this for and when would they need it?
 
 ## Scope
+
 What this guide covers and what it does not.
 
 ## Definition of Done
+
 - [ ] Problem clearly stated
 - [ ] Steps are reproducible
 - [ ] Common pitfalls included
